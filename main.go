@@ -32,6 +32,11 @@ Process:
 	8) run the app
 	9) docker-machine rm 
 
+install aws cli: see google
+configure aws cli: 
+	aws configure
+	AWS Access Key ID [None]...
+
 todo learn docker compose, docker swarm, html.EscapeString(r.URL.Path)
 */
 
